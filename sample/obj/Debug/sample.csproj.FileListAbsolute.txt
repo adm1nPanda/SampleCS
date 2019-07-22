@@ -1,0 +1,6 @@
+C:\Users\dushy\source\repos\sample\sample\obj\Debug\sample.csproj.CoreCompileInputs.cache
+C:\Users\dushy\source\repos\sample\sample\bin\Debug\sample.exe
+C:\Users\dushy\source\repos\sample\sample\bin\Debug\sample.pdb
+C:\Users\dushy\source\repos\sample\sample\obj\Debug\sample.exe
+C:\Users\dushy\source\repos\sample\sample\obj\Debug\sample.pdb
+C:\Users\dushy\source\repos\sample\sample\obj\Debug\sample.csprojAssemblyReference.cache
